@@ -13,7 +13,7 @@
 	
 
 		let baseConfiguration = {
-			key: 'uXD2lB5E6B4E3iAa1Tb1YZNYAh1CUKUEQOHFVANUqD1G1F4I4B1C8E6D2C4E4==',
+			key: '',
 			toolbarButtons: {
 				'moreText': {
 					'buttons': ['bold', 'italic', 'underline', 'fontFamily', 'fontSize', 'textColor', 'inlineClass', 'inlineStyle', 'clearFormatting']
