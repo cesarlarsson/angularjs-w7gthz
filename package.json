@@ -1,9 +1,41 @@
 {
-  "name": "angularjs-w7gthz",
-  "version": "0.0.0",
-  "private": true,
+  "name": "angular-froala",
+  "version": "3.0.2",
+  "description": "Angular.js bindings for Froala WYSIWYG HTML rich text editor",
+  "main": "src/angular-froala.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/froala/angular-froala.git"
+  },
+  "keywords": [
+    "angular.js",
+    "froala",
+    "html",
+    "text",
+    "editor",
+    "wysisyg",
+    "rich editor",
+    "rich text editor",
+    "rte",
+    "javascript"
+  ],
+  "contributors": [
+    "Cameron Gallarno <cgallarno@gmail.com>",
+    "Stefan Neculai <stefan@froala.com>"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/froala/angular-froala/issues"
+  },
+  "homepage": "https://www.froala.com/wysiwyg-editor",
+  "devDependencies": {
+    "angular": ">=1.0",
+    "simple-server": "^1.1.1"
+  },
   "dependencies": {
-    "angular": "1.6.9",
-    "@uirouter/angularjs": "1.0.15"
+    "froala-editor": "3.0.2"
   }
 }
